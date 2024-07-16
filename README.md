@@ -11,7 +11,7 @@ Design a multi-scale weighted fusion module and introduce a coordinate attention
 
 ### Test  
 1. modify model_math, num_classes, and backbone in the deeplab.exe file to correspond to the trained file** Model Path corresponds to the weight files in the logs folder, num_classes represents the number of classes to be predicted plus 1, and backbone is the backbone feature extraction network used.   
-3、run predict.py: python img_path
+2. run predict.py: python img_path
 
 ### Evluation
 1. Set num_classes in get-miou.exe to the number of predicted classes plus 1.
