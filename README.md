@@ -7,7 +7,7 @@ Design a multi-scale weighted fusion module and introduce a coordinate attention
 4. generate the corresponding txt file using the VOC_ annotation. py file before training.
 5. select the backbone model and downsampling factor you want to use in the train.exe folder.
 6. modify the num_classes in train.exe to the number of categories+1.
-7、run train.py
+7. run train.py
 
 ### Test  
 1. modify model_math, num_classes, and backbone in the deeplab.exe file to correspond to the trained file** Model Path corresponds to the weight files in the logs folder, num_classes represents the number of classes to be predicted plus 1, and backbone is the backbone feature extraction network used.   
