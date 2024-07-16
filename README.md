@@ -1,4 +1,4 @@
-## Deeplabv3+：A Multi-Scale Fusion Module And Coordinate Attention Mechanism Based Semantic Segmentation Network(MSAM Deeplabv3+)
+## MSAM Deeplabv3+：A Multi-Scale Fusion Module And Coordinate Attention Mechanism Based Semantic Segmentation Network
 Design a multi-scale weighted fusion module and introduce a coordinate attention mechanism to improve the Deeplabv3+.
 
 ### Train
